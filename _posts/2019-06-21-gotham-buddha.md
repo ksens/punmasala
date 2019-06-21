@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+published: true
 ---
 
 ![gotham-buddha-mousepad](https://user-images.githubusercontent.com/13973052/59904129-607a4180-9420-11e9-8232-c8f8da522f37.jpeg)
