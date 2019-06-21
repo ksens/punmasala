@@ -11,6 +11,5 @@ Gotham Buddha.
 
 **NOTE**: See available colors at shop.
 
-Buy:
-- **India**: [PunMasala Facebook shop](https://www.facebook.com/pg/PunMasala-2107479029311215/shop/)
+Buy as a T-shirt:
 - **USA**: [https://teespring.com/stores/punmasala](https://teespring.com/stores/punmasala)
