@@ -7,9 +7,7 @@ published: true
 
 What do you call Batman when he has attained Nirvana? 
 
-Gotham Buddha.
-
-**NOTE**: See available colors at shop.
+**Gotham Buddha**
 
 Buy as a T-shirt:
 - **USA**: [https://teespring.com/stores/punmasala](https://teespring.com/stores/punmasala)
